@@ -1,0 +1,3 @@
+2	Owais	03301232341	Lahore	Defence_4542	1e+007	2	240
+3	Umar	01232343451	Quetta	Defence_01228	1000	10	10
+2	Owais	03301232341	lahore	northLahore_2031	10000	10	240
